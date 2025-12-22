@@ -1,10 +1,10 @@
 ![MasterHead](https://kotlinlang.org/docs/images/mascot-in-action.png)
 <h1 align="center">Hi 👋, I'm Gülsu Korkmaz</h1>
-<h3 align="center">A passionate computer engineering student from Turkey</h3>
+<h3 align="center">A research assistant with a focus on artificial intelligence from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulsu19&label=Profile%20views&color=0e75b6&style=flat" alt="gulsu19" /> </p>
 
-- 🔭 I’m currently working on **Kotlin , Python**
+- 🔭 I’m currently working on **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
